@@ -1,0 +1,1 @@
+console.log("Aqui serão escritos os códigos do arquivo index.html")
